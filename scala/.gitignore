@@ -1,0 +1,8 @@
+*.class
+*.log
+
+# IDEA
+.idea/
+
+# Target
+target/
