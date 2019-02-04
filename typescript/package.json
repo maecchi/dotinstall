@@ -1,0 +1,28 @@
+{
+  "name": "dotinstall-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maecchi/dotinstall-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maecchi/dotinstall-typescript/issues"
+  },
+  "homepage": "https://github.com/maecchi/dotinstall-typescript#readme",
+  "devDependencies": {
+    "prettier": "1.16.1",
+    "ts-node": "8.0.1",
+    "tslint": "5.12.1",
+    "tslint-config-prettier": "^1.17.0",
+    "tslint-plugin-prettier": "^2.0.1",
+    "typescript": "3.2.4"
+  }
+}
